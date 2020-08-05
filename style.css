@@ -1,0 +1,115 @@
+body
+{ 
+	background-image: url("background.png");
+	background-repeat: repeat;
+	font-family: lato, verdana, sans;
+	color: #ffffff;
+	margin: auto;
+}
+
+#main
+{
+	background-color: #333333;
+	width: 77%;
+	height: 7%;
+	padding: 1% 2.5% 5% 2.5%;
+	margin: 2.5% 2.5% 5% 1%;
+	float: right;
+}
+
+h1
+{
+	font-size: 200%;
+}
+
+a, a:link, a:hover
+{
+	color: #1fbbff;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+code
+{
+	font-size: 110%;
+	color: lightgreen;
+}
+
+h1, h4
+{
+	margin-bottom: 0px;
+}
+
+#logodiv
+{
+	width: 10%;
+	height: 10%;
+	background-color: #333333;
+	padding: 1%;
+	margin: 2.5% 1% 0% 1%;
+	float: left;
+}
+
+#logo
+{
+	width: 100%;
+	height: 100%;
+	vertical-align: middle;
+}
+
+#nav
+{
+	width: 10%;
+	background-color: #333333;
+	padding: 1%;
+	margin: 1%;
+	float: left;
+	font-size: 14px;
+}
+
+#nav > p, .link
+{
+	margin: 1vmax 0px;
+}
+
+table
+{
+	width: 50%;
+	background-color: #444444;
+}
+
+th
+{
+	background-color: #444444;
+	text-align: center;
+	font-weight: bold;
+	background-image: url("background.png");
+	padding: 10px 25px;
+}
+
+.b
+{
+	background-color: #333333;
+}
+
+td
+{
+	padding: 5px;
+}
+
+.a
+{
+	background-color: #444444;
+	text-align: center;
+}
+
+.sub
+{
+	background-color: #444444;
+	width: 100%;
+}
+
+li, ul
+{
+	margin: 1%;
+}
