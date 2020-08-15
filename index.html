@@ -2,58 +2,92 @@
 <html lang="en">
 	<head>
 		<title>mcpi.tk</title>
+		<meta charset="utf-8" />
 		<meta http-equiv="content-type" content="text/html;charset=utf-8" />
-		<meta name="generator" content="Geany 1.29" />
-		<link rel="stylesheet" href="./style.css" type="text/css" />
+		<link rel="stylesheet" type="text/css" href="./assets/css/index.css" />
 		<link rel="shortcut icon" href="./favicon.png" type="image/png" />
 	</head>
 	<body>
-		<a href="/">
-			<div id="logodiv">
-				<img src="./icon.png" id="logo"></img>
+		<header>
+			<nav>
+				<div class="nav" id="ushadow">
+					<a href="#home" class="nav-btn left lf"><img src="./assets/img/logo.png" class="nav-img"></img> MCPI.TK</a>
+					<a href="https://discord.gg/DCwcpyf" class="nav-btn right mf">Discord</a>
+					<a href="#servers" class="nav-btn right mf">Servers</a>
+					<a href="#mods" class="nav-btn right mf">Mods</a>
+					<a href="#home" class="nav-btn right mf">Home</a>
+				</div>
+			</nav>        
+		</header>
+		<main>
+			<div id="servers">
+				<h1 class="title">Servers</h1>
+				<div class="content">
+					<h2 class="sub">PiCraft</h2>
+					<ul>
+						<li><b>IP</b>: <code>80.193.167.121</code></li>
+						<li><b>Port</b>: <code>19132</code></li>
+						<li><b>Uptime</b>: <code>99%</code></li>
+						<li><b>Max capacity</b>: <code>20 players</code></li>
+					</ul>
+					<br />
+					<p>Do you need help joining a server? Read our <a href="./howto/servers.html">HowTo</a>, and if the problem persists or you want more help, join us in <a href="https://discord.gg/DCwcpyf">Discord</a>.</p>
+				</div>
 			</div>
-		</a>
-		<div id="main">
-			<h1>MCPI.TK</h1>
-			<p><i>Welcome to the largest Minecraft Pi-related library!</i></p>
-			<table>
-				<tr>
-					<th>Minecraft Pi</th>
-				</tr>
-				<tr>
-					<td>
-						<ul>
-							<li>
-								Community
-								<ul>
-									<li><a href="https://minecraft.gamepedia.com/Pi_Edition">Wiki</a></li>
-									<li><a href="https://minecraftforum.net/forums/minecraft-editions/minecraft-pi-edition">Forums</a></li>
-								</ul>
-							</li>
-							<li>
-								Tools
-								<ul>
-									<li><a href="./mods/index.html">Mods</a></li>
-									<li><a href="./servers/index.html">Servers</a></li>
-								</ul>
-							</li>
-							<li>
-								Technical
-								<ul>
-									<li><a href="https://wiki.vg/Minecraft_Pi_Protocol">API protocol specs</a></li>
-									<li><a href="https://wiki.vg/Pocket_Minecraft_Protocol">Multiplayer protocol specs</a></li>
-									<li><a href="https://www.stuffaboutcode.com/p/minecraft-api-reference.html">API reference</a></li>
-								</ul>
-							</li>
-							<li><a href="https://www.minecraft.net/en-us/edition/pi/">Official site</a></li>					
+			<div id="mods">
+				<h1 class="title">Mods</h1>
+				<div class="content">
+					<h2 class="sub">Coming soon...</h2>
+					<br />
+					<p>Do you need help using or installing a mod? Read our <a href="./howto/mods.html">HowTo</a>, and if the problem persists or you want more help, join us in <a href="https://discord.gg/DCwcpyf">Discord</a>.</p>
+				</div>
+			</div>
+			<div id="home">
+				<h1 class="title">Minecraft Pi</h1>
+				<p id="dsc">Welcome to the largest Minecraft Pi related library</p>
+				<div id="center">
+					<div id="home-main">
+						<ul class="home-main-list">
+							<h2 class="title">Community</h2>
+							<li><a href="https://minecraft.gamepedia.com/Pi_Edition">Wiki</a></li>
+							<li><a href="https://minecraftforum.net/forums/minecraft-editions/minecraft-pi-edition">Forum</a></li>
 						</ul>
-					</td>
-				</tr>
-			</table>
-		</div>
-		<div id="nav">
-			<p class="link"><a href="/">Home</a></p>
-			<p class="link"><a href="./all.html">All</a></p>
-		</div>
+						<ul class="home-main-list">
+							<h2 class="title">Tools</h2>
+							<li><a href="https://github.com/Alvarito050506/MCPIL">Launcher</a></li>
+							<li><a href="https://github.com/MCBES/MCBES">MCBES</a></li>
+							<li><a href="https://github.com/MCPI-Devs">Other tools</a></li>
+						</ul>
+						<!--ul class="home-main-list">
+							<h2 class="title">Misc</h2>
+							<li>
+								<a href="#mods">Mods</a>
+							</li>
+							<li>
+								<a href="#servers">Servers</a>
+							</li>
+						</ul-->
+						<ul class="home-main-list">
+							<h2 class="title">Technical</h2>
+							<li><a href="https://wiki.vg/Minecraft_Pi_Protocol">API protocol docs</a></li>
+							<li><a href="https://gist.github.com/shoghicp/5601589">Protocol dumps</a></li>
+							<li><a href="https://www.stuffaboutcode.com/p/minecraft-api-reference.html">API reference</a></li>
+							<li><a href="https://wiki.vg/Pocket_Minecraft_Protocol">Multiplayer docs</a></li>
+						</ul>
+						<ul class="home-main-list">
+							<h2 class="title">Downloads</h2>
+							<li><a href="./assets/downloads/mcpi_v0.1.1.tar.gz" download="download">MCPI 0.1.1</a></li>
+							<li><a href="./assets/downloads/pmmp_v1.2.2.zip" download="download">PMMP 1.2.2</a></li>
+							<li><a href="./assets/downloads/mcpe_v0.6.1.apk" download="download">MCPE 0.6.1</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</main>
+		<footer>
+			<div class="foo">
+				<p class="foo-txt">Copyright 2020 MCPI Devs</p>
+			</div>
+		</footer>
 	</body>
 </html>
