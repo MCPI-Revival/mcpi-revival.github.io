@@ -217,3 +217,32 @@ pre {
 	border-radius: 5px;
 	margin: 0px;
 }
+
+input::placeholder {
+	color: #ffffff;
+}
+
+input {
+	background-color: #333333;
+	color: #ffffff;
+	border-width: 1.5px;
+	border-style: solid;
+	padding: 0.3vmax;
+	border-color: #ffffff;
+	display: block;
+	margin: 0.4vmax 0px;
+	border-radius: 5px;
+}
+
+input[type="button"] {
+	border-color: #553322;
+	background-color: #553322;
+	padding: 0.5vmax;
+	cursor: pointer;
+}
+
+/* At least I tried... */
+input:-internal-autofill-selected {
+	background-color: #333333 !important;
+	color: #ffffff !important;
+}
