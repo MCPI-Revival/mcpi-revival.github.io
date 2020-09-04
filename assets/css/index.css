@@ -68,7 +68,8 @@ body {
 }
 
 .nav-btn {
-	width: auto;
+	padding-right: 1vh;
+	padding-left: 1vh;
 	height: 8vh;
 	display: inline;
 	border: none;
@@ -83,11 +84,16 @@ body {
 	text-align: center;
 	line-height: 8vh;
 	text-decoration: none;
+	transition: 0.3s;
 }
 
 .nav-btn.right {
 	float: right;
 	margin-right: 1.5vw;
+}
+
+.nav-btn.right:hover {
+	background-color: rgb(27, 27, 27);
 }
 
 .nav-btn.left {
@@ -150,9 +156,20 @@ body {
 	list-style: none;
 }
 
+h2.title{
+	letter-spacing: 2px;
+}
+
 #home-main ul li a {
 	text-decoration: none;
+	letter-spacing: 1px;
 	color: #efe561;
+	transition: 0.2s;
+}
+
+#home-main ul li a:hover {
+	/*letter-spacing: 2px;*/
+	text-decoration: underline currentColor;
 }
 
 h1.title {
