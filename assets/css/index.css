@@ -45,7 +45,7 @@ body {
 	font-size: large;
 }
 
-#home, #main {
+.main {
 	font-family: "minecraft_alt";
 	color: #ffffff;
 	text-align: center;
@@ -120,7 +120,7 @@ body {
 }
 
 #home:target, #mods:target, #servers:target, #faq:target {
-    display: block;
+    display: inline-block;
 }
 
 #mods:target ~ #home, #mods:target ~ #servers, #mods:target ~ #faq {
