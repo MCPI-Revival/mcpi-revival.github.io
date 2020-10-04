@@ -55,7 +55,7 @@ body {
 	height: 77vh;
 }
 
-#servers, #mods, #faq {
+#servers, #mods, #faq, #screenshots {
 	font-family: "minecraft_alt";
 	display: none;
 	padding-top: 8vh;
@@ -119,19 +119,23 @@ body {
 	transform: translateY(-50%);
 }
 
-#home:target, #mods:target, #servers:target, #faq:target {
+#home:target, #mods:target, #servers:target, #faq:target, #screenshots:target {
     display: inline-block;
 }
 
-#mods:target ~ #home, #mods:target ~ #servers, #mods:target ~ #faq {
+#mods:target ~ #home, #mods:target ~ #servers, #mods:target ~ #faq, #mods:target ~ #screenshots:target {
     display: none;
 }
 
-#servers:target ~ #home, #servers:target ~ #mods, #servers:target ~ #faq {
+#servers:target ~ #home, #servers:target ~ #mods, #servers:target ~ #faq, #servers:target ~ #screenshots:target {
     display: none;
 }
 
-#faq:target ~ #home, #faq:target ~ #mods, #faq:target ~ #servers {
+#faq:target ~ #home, #faq:target ~ #mods, #faq:target ~ #servers, #faq:target ~ #screenshots:target {
+    display: none;
+}
+
+#screenshots:target ~ #home, #screenshots:target ~ #mods, #screenshots:target ~ #servers, #screenshots:target ~ #faq:target {
     display: none;
 }
 
@@ -246,4 +250,12 @@ input[type="button"] {
 input:-internal-autofill-selected {
 	background-color: #333333 !important;
 	color: #ffffff !important;
+}
+
+.screenshot {
+    display: block;
+    max-width: 75%;
+    margin: 5%;
+    margin-left: auto;
+    margin-right: auto;
 }
