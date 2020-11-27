@@ -7,9 +7,11 @@ center: true
 #### Welcome to the largest Minecraft Pi related library!
 
 ## Community
-[Wiki](https://minecraft.gamepedia.com/Pi_Edition)
+[Minecraft Wiki](https://minecraft.gamepedia.com/Pi_Edition)
 
-[Forum](https://minecraftforum.net/forums/minecraft-editions/minecraft-pi-edition)
+[Minecraft Forum](https://minecraftforum.net/forums/minecraft-editions/minecraft-pi-edition)
+
+[MCPI-Revival Wiki (WIP)](https://wiki.mcpirevival.tk)
 
 ## Tools
 [Launcher](https://github.com/MCPI-Devs/MCPIL)
