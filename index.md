@@ -27,9 +27,9 @@ center: true
 
 [Scripting API Refernce](https://www.stuffaboutcode.com/p/minecraft-api-reference.html)
 
-[Multi-Player Protocl Docs](https://wiki.vg/Pocket_Minecraft_Protocol)
+[Multi-Player Protocol Docs](https://wiki.vg/Pocket_Minecraft_Protocol)
 
-[Multi-Player Protocl Docs (Alternate)](https://docs.google.com/document/d/1qPLm0V-jd_71j_BPTmxR48TN-Au2FX7Qy7yJJkwW-qM/edit?usp=sharing)
+[Multi-Player Protocol Docs (Alternate)](https://docs.google.com/document/d/1qPLm0V-jd_71j_BPTmxR48TN-Au2FX7Qy7yJJkwW-qM/edit?usp=sharing)
 
 [Multi-Player Protocol Dumps](https://gist.github.com/shoghicp/5601589)
 
