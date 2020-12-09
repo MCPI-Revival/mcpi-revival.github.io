@@ -5,8 +5,8 @@ center: false
 ---
 
 ## PiCraft
-- **IP:** ``80.193.167.121``
-- **Port:** ``19132``
+- **IP:** ``82.28.171.173``
+- **Port:** ``19135``
 - **Uptime:** ``99%``
 - **Max capacity:** ``20 players``
 - **Gamemode:** ``Creative``
