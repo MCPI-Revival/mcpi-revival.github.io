@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
     {%- include head.html -%}
+    <meta name="description" content="{{ page.title }}" />
+    <meta property="og:description" content="{{ page.title }}" />
     <style>
         .content {
             {% if page.center == true %}

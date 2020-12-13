@@ -5,7 +5,7 @@ center: false
 ---
 
 ## MCPI-Docker
-- [Modding API Doucmnetation](https://gitea.thebrokenrail.com/TheBrokenRail/minecraft-pi-docker/src/branch/master/MODDING.md)
+- [Modding API Documentation](https://gitea.thebrokenrail.com/TheBrokenRail/minecraft-pi-docker/src/branch/master/MODDING.md)
 
 <br />
 
