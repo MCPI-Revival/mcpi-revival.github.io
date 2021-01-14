@@ -20,13 +20,13 @@ center: false
 - **Gamemode:** ``Survival``
 - **Software:** ``MCPI-Docker``
 
-## 3b3t Creative
-- **IP:** ``3b3tmcpicreative.tk``
+## PBPT Survival (Pi builders Pi tools)
+- **IP:** ``pbpt.tk``
 - **Port:** ``19132``
 - **Uptime:** ``99%``
 - **Max capacity:** ``20 players``
-- **Gamemode:** ``Creative``
-- **Software:** ``PocketMine-MP``
+- **Gamemode:** ``Survival``
+- **Software:** ``MCPI-Docker``
 
 ## Tutorials
 - [HowTo: Joining A Server]({{ site.baseurl }}/howto/joining-servers.html)
