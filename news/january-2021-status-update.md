@@ -9,7 +9,7 @@ A lot has happened since the MCPI-Revival project was founded in mid-2020. This 
 ## New Logo!
 A contest was held from ``2021-1-15 01:00 UTC`` to ``2021-1-17 01:00 UTC`` to pick a new logo for the MCPI-Revival project. Ultimately, ``Option #2`` emerged victorious!
 
-<img alt="New Logo" width="256" src="{{ site.baseurl }}/assets/img/logo.png">
+<center><img alt="New Logo" width="256" src="{{ site.baseurl }}/assets/img/logo.png"></center>
 
 One of the runnerups, ``Option #4`` was chosen to become the new logo for MCPIL as well.
 
