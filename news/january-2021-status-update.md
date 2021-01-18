@@ -13,7 +13,7 @@ A contest was held from ``2021-1-15 01:00 UTC`` to ``2021-1-17 01:00 UTC`` to pi
 
 One of the runnerups, ``Option #4`` was chosen to become the new logo for MCPIL as well.
 
-<img alt="New MCPIL Logo" width="256" src="{{ site.baseurl }}/assets/img/mcpil-logo.png">
+<center><img alt="New MCPIL Logo" width="256" src="{{ site.baseurl }}/assets/img/mcpil-logo.png"></center>
 
 ## MCPIL News
 TODO: Dicontinuation Of MCPIL, Release Of MCPIL-R
