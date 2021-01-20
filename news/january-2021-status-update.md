@@ -20,7 +20,7 @@ The original MCPIL has been discontinued for various reasons. The only usable mo
 
 <center><img alt="MCPIL-R" width="512" src="{{ site.baseurl }}/assets/img/news/january-2021-status-update/mcpil-r.png"></center>
 
-MCPIL-R is a launcher for MCPI-Docker with the ability to save your configuration. It also has integration with the multiplayer proxy just like the original. However, it currently lacks support for MCPI-Central and a few other features from the original. Because it uses MCPI-Docker it can also run on devces other than the Raspberry Pi as well.
+MCPIL-R is a launcher for MCPI-Docker with the ability to save your configuration. It also has integration with the multiplayer proxy just like the original. However, it currently lacks support for MCPI-Central and a few other features from the original. Because it uses MCPI-Docker it can also run on devces other than the Raspberry Pi as well. Instead of having a version of MCPi-Docker come packaged with MCPIL-R like MCPIL, it instead is more of a "GUI frontend" for MCPi-Docker.
 
 ## Website News
 The entire website now uses a custom Jekyll theme and has been migrated to Markdown! This makes the theming more consistent and will make it easier for us to add more pages (like this one).
