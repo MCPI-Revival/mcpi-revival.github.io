@@ -1,1 +1,6 @@
-### About us!
+---
+layout: default
+title: News
+center: false
+---
+
