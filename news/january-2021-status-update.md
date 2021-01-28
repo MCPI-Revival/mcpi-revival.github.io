@@ -15,16 +15,24 @@ One of the runnerups, ``Option #4``, was chosen to become the new logo for MCPIL
 
 <center><img alt="New MCPIL Logo" width="256" src="{{ site.baseurl }}/assets/img/news/january-2021-status-update/mcpil-logo.png"></center>
 
+## MCPI-Reborn
+
+<center><img alt="MCPI-Reborn" width="768" src="{{ site.baseurl }}/assets/img/news/january-2021-status-update/mcpi-reborn.png"></center>
+
+MCPI-Reborn is a collection of mods for Minecraft: Pi Edition. It includes things like a Survival Mode mod, a smooth lighting mod, an animated water mod, and more! It also includes a mod to replace the RPI-specific graphics code with general-purpose graphics code so that MCPI-Reborn can be run in QEMU user-mode.
+
+MCPI-Reborn also includes a mod that can convert MCPI into a dedicated server.
+
+MCPI-Reborn uses Docker to containerize the environment and uses Debian packages for distribution.
+
 ## MCPIL
-The original MCPIL has been discontinued for various reasons. The only usable mod was ModPi and while attempts were made to integrate MCPI-Docker, they were very unstable. So, the decision was made to discontinue the original MCPIL and rewrite it from scratch as MCPIL-R (or MCPIL - Rebooted).
 
-<center><img alt="MCPIL-R" width="512" src="{{ site.baseurl }}/assets/img/news/january-2021-status-update/mcpil-r.png"></center>
+<center><img alt="MCPIL-R" width="768" src="{{ site.baseurl }}/assets/img/news/january-2021-status-update/mcpil.png"></center>
 
-MCPIL-R is a launcher for MCPI-Docker with the ability to save your configuration. It also has integration with the multiplayer proxy just like the original. However, it currently lacks support for MCPI-Central and a few other features from the original. Because it uses MCPI-Docker it can also run on devces other than the Raspberry Pi as well. Instead of having a version of MCPi-Docker come packaged with MCPIL-R like MCPIL, it instead is more of a "GUI frontend" for MCPi-Docker.
+MCPIL is a launcher for Minecraft: Pi Edition. Its purpose is to put all MCPI related services and mods all in one place. It has now been rewritten to integrate with MCPI-Reborn. This has made MCPIL much more stable and allows it to run on non-ARM devices.
+
+It also has integration with the multiplayer proxy just like the original. However, it currently lacks support for MCPI-Central and a few other features from the original.
 
 ## Website News
-The entire website now uses a custom Jekyll theme and has been migrated to Markdown! This makes the theming more consistent and will make it easier for us to add more pages (like this one).
-
-## ``minecraft-pi-docker`` News
-TODO: Potential Rename, Announcment, Current Features
+The entire website now uses a custom Jekyll theme and has been migrated to Markdown! This makes the theming much more consistent and will make it easier for us to add more pages (like this one).
 

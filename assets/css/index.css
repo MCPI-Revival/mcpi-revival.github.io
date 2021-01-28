@@ -58,8 +58,8 @@ main {
     padding-top: 6vh;
     padding-bottom: 6vh;
     text-align: left;
-    padding-right: 2vw;
-    padding-left: 2vw;
+    padding-right: 20%;
+    padding-left: 20%;
     font-family: sans-serif;
 }
 
@@ -131,6 +131,10 @@ main h1, main h2, main h3 {
 
 main h1 {
     font-family: "minecraft_alt";
+}
+
+main img {
+    max-width: 100%;
 }
 
 .page > :first-child {
