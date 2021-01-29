@@ -20,7 +20,7 @@ If you have an updated RPi OS Full version, you already have it! If you have an 
 sudo apt-get install minecraft-pi
 ```
 
-Otherwise, if you are using MCPI-Docker, it will install MCPI automatically.
+Otherwise, if you are using MCPI-Reborn, it will install MCPI automatically.
 
 ## What extra features does MCPI have?
 

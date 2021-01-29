@@ -15,7 +15,7 @@ First of all, you must choose which server software to use.
 - IP-Banning
 
 ### Cons
-- Player Inventories Are Not Saved
+- Player Data Is Not Saved
   - An easy workaround is to place your inventory in a chest before logging out.
 - No Whitelist
 
@@ -23,9 +23,9 @@ First of all, you must choose which server software to use.
 Debian Buster/Ubuntu 20.04 Or Later
 
 ### Instructions
-1. Open UDP port 19132 on your router/firewall.
-2. Download the latest [DEB](https://jenkins.thebrokenrail.com/job/minecraft-pi-reborn/job/master/lastSuccessfulBuild/artifact/out/deb/)(make sure to select the one with "server" in it's name) and install it.
-3. Create a folder for your server and open a terminal window in it.
+1. Open port 19132 on your router/firewall.
+2. Download the ``minecraft-pi-reborn-server`` DEB from [here](https://jenkins.thebrokenrail.com/job/minecraft-pi-reborn/job/master/lastSuccessfulBuild/artifact/out/deb) and install it.
+3. Create a folder for your server and open a terminal in it.
 4. Run ``minecraft-pi-server`` to start your server.
 5. Done! You can now edit server.properties to configure the server.
 
