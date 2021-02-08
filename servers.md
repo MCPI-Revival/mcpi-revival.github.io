@@ -7,12 +7,11 @@ center: false
 ## TheBrokenRail's Survival Server
 - **IP:** ``thebrokenrail.com``
 - **Port:** ``19132``
-- **Description:** ``Friendly MCPI survival server to chill out and have fun! Used as a server to showcase MCPI-Reborn.``
-- **Rules:**  
- `1. Be kind and fair to everyone.`<br/>
- `2. No griefing, stealing, random killing, or hacking. You can hack on PBPT though(listed below).`<br/>
- `3. Use common sense! Don't try to find loopholes in the rules.`
-- **Uptime:** ``99%``
+- **Description:** ``Friendly MCPI survival server to chill out and have fun! Used as a server to test MCPI-Reborn.``
+- **Rules:**
+  1. ``Be kind and fair to everyone.``
+  2. ``No griefing, stealing, or random killing. Hacking is allowed for testing as long as it doesn't affect other players.``
+  3. ``Use common sense! Don't try to find loopholes in the rules.``
 - **Max capacity:** ``20 players``
 - **Gamemode:** ``Survival``
 - **Software:** ``MCPI-Reborn``
