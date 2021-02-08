@@ -6,7 +6,7 @@ center: false
 
 First of all, you must choose which server software to use.
 
-## MCPI-Docker
+## MCPI-Reborn
 
 ### Pros
 - Survival Mode Support
@@ -24,9 +24,9 @@ Debian Buster/Ubuntu 20.04 Or Later
 
 ### Instructions
 1. Open port 19132 on your router/firewall.
-2. Download the [DEB](https://jenkins.thebrokenrail.com/job/minecraft-pi-docker/job/master/lastSuccessfulBuild/artifact/out/deb/minecraft-pi-server_1.0.0_all.deb) and install it.
+2. Download the latest [DEB](https://jenkins.thebrokenrail.com/job/minecraft-pi-reborn/job/master/lastSuccessfulBuild/artifact/out/deb/)(make sure to select the one with "server" in it's name) and install it.
 3. Create a folder for your server and open a terminal in it.
-4. Run minecraft-pi-server to start your server.
+4. Run ``minecraft-pi-server`` to start your server.
 5. Done! You can now edit server.properties to configure the server.
 
 ## PocketMine-MP
