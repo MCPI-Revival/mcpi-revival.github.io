@@ -20,7 +20,7 @@ center: false
 ## PBPT Anarchy (Pi Builders Pi Tools)
 - **IP:** ``pbpt.tk``
 - **Port:** ``19132``
-- **Description:** ``The "oldest" MCPI survival anarchy server! Anything and everything is allowed from flyhacks to greifing``
+- **Description:** ``The "oldest" MCPI survival anarchy server! Anything and everything is allowed from flyhacks to greifing.``
 - **Max capacity:** ``10 players``
 - **Gamemode:** ``Survival``
 - **Software:** ``MCPI-Reborn``
