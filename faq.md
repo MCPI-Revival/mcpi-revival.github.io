@@ -10,7 +10,7 @@ It's a fork (modification) of an old version of Minecraft Pocket Edition (Alpha 
 
 ## Can I play it?
 
-It depends on your platform: If you are in a Raspberry Pi 2 or superior, with Raspberry Pi OS (previously Raspbian) installed as one of your operating systems, yes! Otherwise, you can use [MCPI-Docker](https://gitea.thebrokenrail.com/TheBrokenRail/minecraft-pi-docker), which, as its name says, requires Docker, or you can use the MCPI-Docker mods in any other RPi emulator (QEMU, QEMU + KVM).
+It depends on your platform: If you are in a Raspberry Pi 2 or superior, with Raspberry Pi OS (previously Raspbian) installed as one of your operating systems, yes! Otherwise, you can use [MCPI-Reborn](https://gitea.thebrokenrail.com/TheBrokenRail/minecraft-pi-reborn), which requires Docker, or you can use the MCPI-Reborn mods in any other RPi emulator (QEMU, QEMU + KVM).
 
 ## How do I get it?
 
