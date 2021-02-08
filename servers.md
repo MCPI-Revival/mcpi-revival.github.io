@@ -12,7 +12,7 @@ center: false
 - **Uptime:** ``99%``
 - **Max capacity:** ``20 players``
 - **Gamemode:** ``Survival``
-- **Software:** ``MCPI-Docker``
+- **Software:** ``MCPI-Reborn``
 
 ## PBPT Anarchy (Pi Builders Pi Tools)
 - **IP:** ``pbpt.tk``
@@ -20,7 +20,7 @@ center: false
 - **Description:** ``The "oldest" MCPI survival anarchy server! Anything and everything is allowed from flyhacks to greifing``
 - **Max capacity:** ``10 players``
 - **Gamemode:** ``Survival``
-- **Software:** ``MCPI-Docker``
+- **Software:** ``MCPI-Reborn``
 
 ## Tutorials
 - [HowTo: Joining A Server]({{ site.baseurl }}/howto/joining-servers.html)
