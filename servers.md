@@ -4,10 +4,10 @@ title: Servers
 center: false
 ---
 
-## TheBrokenRail's MCPI Survival Server
+## TheBrokenRail's Survival Server
 - **IP:** ``thebrokenrail.com``
 - **Port:** ``19132``
-- **Description:** ``Friendly MCPI survival server to chill out and have fun! Also used as a demo/test bed for new MCPI-Reborn server software versions.``
+- **Description:** ``Friendly MCPI survival server to chill out and have fun! Used as a server to showcase MCPI-Reborn.``
 - **Rules:**  
  `1. Be kind and fair to everyone.`<br/>
  `2. No griefing, stealing, random killing, or hacking. You can hack on PBPT though(listed below).`<br/>
