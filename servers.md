@@ -20,7 +20,7 @@ center: false
 - **Owner:** ``TheBrokenRail#5376``
 
 ## PBPT Anarchy (Pi Builders Pi Tools)
-- **IP:** ``pbpt.tk``
+- **IP:** ``pbptanarchy.tk``
 - **Port:** ``19132``
 - **Description:** ``The "oldest" MCPI survival anarchy server! Anything and everything is allowed from flyhacks to greifing.``
 - **Uptime:** ``99%``
