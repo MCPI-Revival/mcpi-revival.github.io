@@ -23,7 +23,7 @@ First of all, you must choose which server software to use.
 Debian Buster/Ubuntu 20.04 Or Later
 
 ### Instructions
-1. Open port 19132 on your router/firewall.
+1. Open UDP port 19132 on your router/firewall.
 2. Download the latest [DEB](https://jenkins.thebrokenrail.com/job/minecraft-pi-reborn/job/master/lastSuccessfulBuild/artifact/out/deb/)(make sure to select the one with "server" in it's name) and install it.
 3. Create a folder for your server and open a terminal window in it.
 4. Run ``minecraft-pi-server`` to start your server.
@@ -46,7 +46,7 @@ Debian Buster/Ubuntu 20.04 Or Later
 Modern Debian/Ubuntu
 
 ### Instructions
-1. Open port 19132 on your router/firewall.
+1. Open UDP port 19132 on your router/firewall.
 2. Install build-essential.
 3. Create a folder for your server.
 4. Download and extract [PocketMine-MP](https://github.com/MCPI-Devs/PocketMine-MP/archive/thebrokenrail.zip) into your server's folder.
