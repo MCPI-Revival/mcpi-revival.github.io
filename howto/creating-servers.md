@@ -29,7 +29,7 @@ Debian Buster/Ubuntu 20.04 Or Later
 4. Run ``minecraft-pi-server`` to start your server.
 5. Done! You can now edit server.properties to configure the server.
 
-## PocketMine-MP
+## PocketMine-MP Legacy
 
 ### Pros
 - Made From Scratch, No Mojang Code
@@ -54,3 +54,4 @@ Modern Debian/Ubuntu
 6. Run ./compile_php.sh to compile PocketMine's version of PHP and its required extensions.
 7. Run ./start.sh to start your server.
 8. Done! You can now edit server.properties to configure the server.
+You can find documentation for the server.properties config file [here](https://web.archive.org/web/20150623012407/http://pocketmine-mp.readthedocs.org:80/en/latest/config.html#server-properties).
