@@ -24,7 +24,7 @@ Otherwise, if you are using MCPI-Docker, it will install MCPI automatically.
 
 ## What extra features does MCPI have?
 
-Minecraft: Pi Edition comes with a built-in scripting API, with clients in multiple languages: Python ([mcpi](https://github.com/martinohanlon/mcpi), [Picraft](https://picraft.readthedocs.io/)), [JavaScript](https://github.com/mdnorman/node-mcpi), Java and probably more.
+Minecraft: Pi Edition comes with a built-in scripting API, with clients in multiple languages: Python ([mcpi](https://github.com/martinohanlon/mcpi), [Picraft](https://picraft.readthedocs.io/)), [JavaScript](https://github.com/mdnorman/node-mcpi), Java, Scratch, C++ and probably more.
 
 ## How is it related to MCPE?
 
@@ -32,4 +32,8 @@ Minecraft: Pi Edition is related to Minecraft: Pocket Edition, because the first
 
 ## And what is this?
 
-This is the main webpage of [MCPI Revival](https://github.com/MCPI-Devs), a community dedicated to Minecraft Pi (and eventually PE) modding. If you are interested, come join us! In [Discord]({{ site.baseurl }}/discord.html), [Reddit](https://old.reddit.com/r/MCPIDevs) and our [forums](https://mcpi-devs.freeforums.net/). We also appreciate contributions and feedback on our projects in [GitHub](https://github.com/MCPI-Devs)!
+This is the main webpage of [MCPI Revival](https://github.com/MCPI-Revival), a community dedicated to Minecraft Pi (and eventually PE) modding. If you are interested, come join us! In [Discord]({{ site.baseurl }}/discord.html), [Reddit](https://old.reddit.com/r/MCPIDevs) and our [forums](https://mcpi-devs.freeforums.net/). We also appreciate contributions and feedback on our projects in [GitHub](https://github.com/MCPI-Devs)!
+
+## Where can I find FAQ on other projects?
+
+Mostly on their pages on github. But some are here!
