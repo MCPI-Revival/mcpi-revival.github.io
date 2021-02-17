@@ -14,13 +14,13 @@ center: true
 [MCPI-Revival Wiki (WIP)](https://wiki.mcpirevival.tk)
 
 ## Tools
-[Launcher](https://github.com/MCPI-Devs/MCPIL)
+[Launcher](https://github.com/MCPI-Revival/MCPIL)
 
-[MCBES](https://github.com/MCPI-Devs/MCBES)
+[MCBES](https://github.com/MCPI-Revival/MCBES)
 
 [MCPI-Docker](https://gitea.thebrokenrail.com/TheBrokenRail/minecraft-pi-docker)
 
-[Other Tools](https://github.com/MCPI-Devs)
+[Other Tools](https://github.com/MCPI-Revival)
 
 ## Technical
 [Scripting API Protocol Docs](https://wiki.vg/Minecraft_Pi_Protocol)
