@@ -15,36 +15,33 @@ center: false
 - **Max capacity:** ``20 players``
 - **Gamemode:** ``Survival``
 - **Software:** ``MCPI-Reborn``
-- **Status:** ``Online 24/7``
+- **Status:** ``Online``
 - **Owner:** ``TheBrokenRail#5376``
 
 ## PBPT Anarchy (Pi Builders Pi Tools)
 - **IP:** ``pbptanarchy.tk``
 - **Port:** ``19132``
 - **Description:** ``The "oldest" MCPI survival anarchy server! Anything and everything is allowed from flyhacks to greifing.``
-- **Uptime:** ``99%``
 - **Max capacity:** ``10 players``
 - **Gamemode:** ``Survival``
 - **Software:** ``MCPI-Reborn``
-- **Status:** ``Online 24/7``
+- **Status:** ``Online``
 - **Owner:** ``RPiNews#0001``
 
 ## LEHAtupointow's Server
 - **IP:** ``172.58.159.90``
 - **Port:** ``19132``
 - **Description:** ``N/A``
-- **Uptime:** ``Unknown``
 - **Max capacity:** ``20 players``
 - **Gamemode:** ``Survival/Creative(check motd for gamemode)``
 - **Software:** ``MCPI-Reborn``
-- **Status:** ``Unknown (It runs only when (Leha)[https://lehatupointow.blogspot.com LEHA] turns it on, ask him on discord at L̶E̶H̶A̶t̶u̶p̶o̶i̶n̶t̶o̶w̶™#9724.``
+- **Status:** ``Unknown (It runs only when LEHA turns it on, ask him on discord at L̶E̶H̶A̶t̶u̶p̶o̶i̶n̶t̶o̶w̶™#9724.``
 - **Owner:** ``L̶E̶H̶A̶t̶u̶p̶o̶i̶n̶t̶o̶w̶™#9724``
 
 ## PiCraft
 - **IP:** ``82.28.171.173``
 - **Port:** ``19135``
 - **Description:** ``N/A``
-- **Uptime:** ``99%``
 - **Max capacity:** ``20 players``
 - **Gamemode:** ``Creative``
 - **Software:** ``PocketMine-MP``
