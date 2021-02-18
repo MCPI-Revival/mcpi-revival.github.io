@@ -14,13 +14,11 @@ MCPI-Reborn, a core project, officially supports at least Debian/Raspbian Buster
 
 ## How do I get it?
 
-### Pi-Apps (Raspberry Pi Users)
-If you are using a Raspberry Pi, you can install with Pi-Apps:
-
+### Option A: Pi-Apps (Raspberry Pi Only)
 [![Pi-Apps](https://github.com/Botspot/pi-apps/blob/master/icons/badge.png?raw=true)](https://github.com/Botspot/pi-apps)
 
-### Manual
-TODO
+### Option B: Manual Installation
+[View Manual Installation](https://gitea.thebrokenrail.com/TheBrokenRail/minecraft-pi-reborn/src/branch/master/docs/INSTALL.md)
 
 ## What extra features does MCPI have?
 
