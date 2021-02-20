@@ -19,13 +19,11 @@ One of the runnerups, ``Option #4``, was chosen to become the new logo for MCPIL
 
 <center><img alt="MCPI-Reborn" width="768" src="{{ site.baseurl }}/assets/img/news/january-2021-status-update/mcpi-reborn.png"></center>
 
-MCPI-Reborn is a collection of mods for Minecraft: Pi Edition. It includes things like a Survival Mode mod, a smooth lighting mod, an animated water mod, and more! It also includes a mod to replace the RPI-specific graphics code with general-purpose graphics code so that MCPI-Reborn can be run in QEMU user-mode.
+MCPI-Reborn is a collection of mods for Minecraft: Pi Edition. It includes things like a Survival Mode mod, a smooth lighting mod, an animated water mod, and more! It also includes a mod to replace the RPI-specific graphics code with general-purpose graphics code so that MCPI-Reborn can be run in QEMU user-mode. It uses Docker to containerize the environment and uses Debian packages for distribution.
 
 MCPI-Reborn also includes a mod that can convert MCPI into a dedicated server.
 
-MCPI-Reborn uses Docker to containerize the environment and uses Debian packages for distribution.
-
-MCPI-Reborn used to be called MCPI-Docker (or ``minecraft-pi-docker``) but was renamed when its main focus became modding.
+It used to be called MCPI-Docker (or ``minecraft-pi-docker``) but was renamed when its main focus became modding.
 
 ## MCPIL
 
