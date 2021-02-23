@@ -31,12 +31,12 @@ center: false
 - **Owner:** ``RPiNews#0001``
 
 ## PiCraft
-- **IP:** ``82.28.171.173``
+- **IP:** ``82.28.171.173`` with port ``19132`` (creative) and ``82.28.171.173`` with port ``19135`` (survival)
 - **Port:** ``19135``
 - **Description:** ``First ever MCPI server``
 - **Uptime:** ``99%``
 - **Max capacity:** ``20 players``
-- **Gamemode:** ``Creative``
+- **Gamemode:** ``Creative/Survival``
 - **Software:** ``PocketMine-MP``
 - **Status:** ``Online``
 - **Owner:** ``Bracket The Fox#6969``
