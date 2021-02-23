@@ -30,6 +30,17 @@ center: false
 - **Status:** ``Online 24/7``
 - **Owner:** ``RPiNews#0001``
 
+## PiCraft
+- **IP:** ``82.28.171.173``
+- **Port:** ``19135``
+- **Description:** ``First ever MCPI server``
+- **Uptime:** ``99%``
+- **Max capacity:** ``20 players``
+- **Gamemode:** ``Creative``
+- **Software:** ``PocketMine-MP``
+- **Status:** ``Online``
+- **Owner:** ``Bracket The Fox#6969``
+
 ## LEHAtupointow's Server
 - **IP:** ``172.58.159.90``
 - **Port:** ``19132``
@@ -40,17 +51,6 @@ center: false
 - **Software:** ``MCPI-Reborn``
 - **Status:** ``Unknown (It runs only when (Leha)[https://lehatupointow.blogspot.com LEHA] turns it on, ask him on discord at L̶E̶H̶A̶t̶u̶p̶o̶i̶n̶t̶o̶w̶™#9724.``
 - **Owner:** ``L̶E̶H̶A̶t̶u̶p̶o̶i̶n̶t̶o̶w̶™#9724``
-
-## PiCraft
-- **IP:** ``82.28.171.173``
-- **Port:** ``19135``
-- **Description:** ``N/A``
-- **Uptime:** ``99%``
-- **Max capacity:** ``20 players``
-- **Gamemode:** ``Creative``
-- **Software:** ``PocketMine-MP``
-- **Status:** ``Permanently offline``
-- **Owner:** ``Bracket The Fox#6969``
 
 ## Tutorials
 - [HowTo: Joining A Server]({{ site.baseurl }}/howto/joining-servers.html)
