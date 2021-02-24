@@ -31,8 +31,8 @@ center: false
 - **Owner:** ``RPiNews#0001``
 
 ## PiCraft
-- **IP:** ``82.28.171.173`` with port ``19132`` (creative) and ``82.28.171.173`` with port ``19135`` (survival)
-- **Port:** ``19135``
+- **IP:** ``82.28.171.173``
+- **Port:** ``19135`` (survival) and ``19132`` (creative)
 - **Description:** ``First ever MCPI server``
 - **Uptime:** ``99%``
 - **Max capacity:** ``20 players``
@@ -47,9 +47,9 @@ center: false
 - **Description:** ``N/A``
 - **Uptime:** ``Unknown``
 - **Max capacity:** ``20 players``
-- **Gamemode:** ``Survival/Creative(check motd for gamemode)``
+- **Gamemode:** ``Survival/Creative (check MOTD for gamemode)``
 - **Software:** ``MCPI-Reborn``
-- **Status:** ``Unknown (It runs only when (Leha)[https://lehatupointow.blogspot.com LEHA] turns it on, ask him on discord at L̶E̶H̶A̶t̶u̶p̶o̶i̶n̶t̶o̶w̶™#9724.``
+- **Status:** ``Unknown (It runs only when Leha turns it on, ask him on discord at L̶E̶H̶A̶t̶u̶p̶o̶i̶n̶t̶o̶w̶™#9724.``
 - **Owner:** ``L̶E̶H̶A̶t̶u̶p̶o̶i̶n̶t̶o̶w̶™#9724``
 
 ## Tutorials
