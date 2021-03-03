@@ -4,8 +4,8 @@ title: Mods
 center: false
 ---
 
-## MCPI-Docker
-- [Modding API Documentation](https://gitea.thebrokenrail.com/TheBrokenRail/minecraft-pi-docker/src/branch/master/MODDING.md)
+## MCPI-Reborn
+- [Modding API Documentation](https://gitea.thebrokenrail.com/TheBrokenRail/minecraft-pi-reborn/src/branch/master/MODDING.md)
 
 <br />
 

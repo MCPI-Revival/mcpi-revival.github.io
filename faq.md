@@ -10,25 +10,23 @@ It's a fork (modification) of an old version of Minecraft Pocket Edition (Alpha 
 
 ## Can I play it?
 
-It depends on your platform: If you are in a Raspberry Pi 2 or superior, with Raspberry Pi OS (previously Raspbian) installed as one of your operating systems, yes! Otherwise, you can use [MCPI-Reborn](https://gitea.thebrokenrail.com/TheBrokenRail/minecraft-pi-reborn), which requires Docker, or you can use the MCPI-Reborn mods in any other RPi emulator (QEMU, QEMU + KVM).
+MCPI-Reborn, a core project, officially supports at least Debian/Raspbian Buster or Ubuntu 20.04. While it may work on other operating systems, it is not officially supported.
 
 ## How do I get it?
 
-If you have an updated RPi OS Full version, you already have it! If you have an updated RPi OS without MCPI preinstalled, you can install it by running the following command:
+### Option A: Pi-Apps (Raspberry Pi Only)
+[![Pi-Apps](https://github.com/Botspot/pi-apps/blob/master/icons/badge.png?raw=true)](https://github.com/Botspot/pi-apps)
 
-```sh
-sudo apt-get install minecraft-pi
-```
-
-Otherwise, if you are using MCPI-Docker, it will install MCPI automatically.
+### Option B: Manual Installation
+[View Manual Installation](https://gitea.thebrokenrail.com/TheBrokenRail/minecraft-pi-reborn/src/branch/master/docs/INSTALL.md)
 
 ## What extra features does MCPI have?
 
-Minecraft: Pi Edition comes with a built-in scripting API, with clients in multiple languages: Python ([mcpi](https://github.com/martinohanlon/mcpi), [Picraft](https://picraft.readthedocs.io/)), [JavaScript](https://github.com/mdnorman/node-mcpi), Java, Scratch, C++ and probably more.
+Minecraft: Pi Edition comes with a built-in scripting API, with clients in multiple languages: Python ([mcpi](https://github.com/martinohanlon/mcpi), [Picraft](https://picraft.readthedocs.io/)), [JavaScript](https://github.com/mdnorman/node-mcpi), Java and many more.
 
 ## How is it related to MCPE?
 
-Minecraft: Pi Edition is related to Minecraft: Pocket Edition, because the first is a "modified" and ported version of the second one, but they are **not** the same. For example, MCPI by default doesn't have the Survival features enabled.
+Minecraft: Pi Edition is related to Minecraft: Pocket Edition, because the first is a "modified" and ported version of the second one, but they are **not** the same. For example, MCPI by default doesn't have the Survival mode enabled.
 
 ## And what is this?
 
