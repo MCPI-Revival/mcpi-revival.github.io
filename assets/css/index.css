@@ -1,0 +1,143 @@
+@font-face {
+    font-family: "minecraft_reg";
+    src: url("../fonts/minecraft_reg.woff");
+}
+
+@font-face {
+    font-family: "minecraft_alt";
+    src: url("../fonts/minecraft_alt.woff");
+}
+
+* {
+    margin: 0px;
+    color: #ffffff;
+}
+
+body {
+    min-height: 100vh;
+    background: url("../img/wall.png") center;
+    background-size: 100% auto;
+    background-position: 0vw 0vh;
+    background-repeat: repeat;
+    overflow-wrap: break-word;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.header {
+    width: 100%;
+    height: 8vh;
+    background: rgba(51, 51, 51, 1); /* #0033cc */
+    font-family: "minecraft_alt";
+}
+
+.footer {
+    font-family: "minecraft_alt";
+    width: 100%;
+    height: 15vh;
+    background: #333333;
+    color: #ffffff;
+    text-align: center;
+    position: relative;
+}
+.footer p {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+main {
+    color: #ffffff;
+    display: inline-block;
+    min-height: 77vh;
+    width: 100%;
+}
+
+.content {
+    padding-top: 6vh;
+    padding-bottom: 6vh;
+    text-align: left;
+    padding-right: 2vw;
+    padding-left: 2vw;
+    font-family: sans-serif;
+}
+
+.header-button {
+    width: auto;
+    height: 8vh;
+    display: inline;
+    border: none;
+    overflow: none;
+    outline: none;
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    background: transparent;
+    color: #ffffff;
+    text-align: center;
+    line-height: 8vh;
+    text-decoration: none;
+}
+
+ul.header-list {
+    width: auto;
+    list-style-type: none;
+}
+
+ul.header-list li {
+    float: right;
+}
+
+ul.header-list li a {
+    margin-left: 0.75vw;
+    margin-right: 0.75vw;
+}
+
+.header-img {
+    width: auto;
+    height: 5vh;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.header-button:active {
+    color: #63e04c;
+}
+
+main a {
+    color: #efe561;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.highlighter-rouge {
+    background: rgba(0,0,0,0.9);
+}
+main div.highlighter-rouge {
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    padding: 12px;
+}
+
+main p, main div.highlighter-rouge {
+    margin-bottom: 1.5vh;
+}
+
+main h1, main h2, main h3 {
+    margin-top: 2vh;
+    margin-bottom: 0.5vh;
+}
+
+main h1 {
+    font-family: "minecraft_alt";
+}
+
+.page > :first-child {
+    margin-top: 0 !important;
+}
+
+.title {
+    margin-top: 0;
+    text-align: center;
+}
