@@ -1,16 +1,14 @@
 ---
 layout: default
-title: mcpi saas
+title: MCPI SaaS
 center: true
 ---
 
-## Mcpi As A Service
+## MCPI As A Service
 
 <canvas id="Game" width="200" height="100"></canvas>
 <script>
-var c = document.getElementById("Game");
-var ctx = c.getContext("2d");
-ctx.moveTo(0, 0);
-ctx.lineTo(200, 100);
-ctx.stroke();
+  var canvas = document.getElementById("Game");
+  var ctx = c.getContext("2d");
+  /* Insert big brain code here */
 </script>
