@@ -4,4 +4,4 @@ title: News
 center: false
 ---
 
-- [Early 2021 Status Update]({{ site.baseurl }}/news/january-2021-status-update.html)
+- [Early 2021 Status Update]({{ site.baseurl }}/news/early-2021-status-update.html)
