@@ -20,7 +20,7 @@ center: true
 
 [MCPI-Docker](https://gitea.thebrokenrail.com/TheBrokenRail/minecraft-pi-docker)
 
-[Play McPi online](https://nobody5050.github.io/mcpi-devs/SaaS.md)
+[Play McPi online]({site.baseurl}/mcpi-devs/SaaS.md)
 
 [Other Tools](https://github.com/MCPI-Revival)
 
