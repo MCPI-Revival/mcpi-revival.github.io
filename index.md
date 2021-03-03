@@ -23,6 +23,8 @@ center: true
 [Other Tools](https://github.com/MCPI-Revival)
 
 ## Technical
+[Complete Block ID Reference](https://wiki.mcpirevival.tk/wiki/Minecraft:_Pi_Edition_block_list)
+
 [Scripting API Protocol Docs](https://wiki.vg/Minecraft_Pi_Protocol)
 
 [Scripting API Refernce](https://www.stuffaboutcode.com/p/minecraft-api-reference.html)
