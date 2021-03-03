@@ -9,6 +9,6 @@ center: true
 <canvas id="Game" width="200" height="100"></canvas>
 <script>
   var canvas = document.getElementById("Game");
-  var ctx = c.getContext("2d");
+  var ctx = canvas.getContext("2d");
   /* Insert big brain code here */
 </script>
