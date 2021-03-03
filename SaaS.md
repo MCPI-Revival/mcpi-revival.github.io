@@ -8,7 +8,7 @@ center: true
 
 <canvas id="Game" width="200" height="100"></canvas>
 <script>
-var c = document.getElementById("game");
+var c = document.getElementById("Game");
 var ctx = c.getContext("2d");
 ctx.moveTo(0, 0);
 ctx.lineTo(200, 100);
