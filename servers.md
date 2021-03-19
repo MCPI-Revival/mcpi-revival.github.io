@@ -37,10 +37,10 @@ center: false
 2. ``No Swearing``
 3. ``No Abusing Glitches (Unless it doesn't affect other players)``
 4. ``This is not anarchy. This means that you must abide by the rules``
-- **Max capacity:** ``20 players``
+- **Max capacity:** ``10 players``
 - **Gamemode:** ``Survival``
 - **Software:** ``MCPI-Reborn``
-- **Status:** ``Online (Run from 10 AM to 10 PM ET)``
+- **Status:** ``Online (Run from 12PM to 9 PM ET)``
 - **Owner:** ``GabeCoder on Github: https://github.com/GabeCoder``
 
 ## PiCraft
