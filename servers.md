@@ -28,6 +28,21 @@ center: false
 - **Status:** ``Online``
 - **Owner:** ``RPiNews#0001``
 
+## Gamer's SMP
+- **IP:** ``96.245.75.18``
+- **Port:** ``19132``
+- **Description:** ``A server where every player has a goal to survive together.``
+- **Rules:**
+1. ``No Griefing``
+2. ``No Swearing``
+3. ``No Abusing Glitches (Unless it doesn't affect other players)``
+4. ``This is not anarchy. This means that you must abide by the rules``
+- **Max capacity:** ``20 players``
+- **Gamemode:** ``Survival``
+- **Software:** ``MCPI-Reborn``
+- **Status:** ``Online (Run from 10 AM to 10 PM ET)``
+- **Owner:** ``[GabeCoder](https://github.com/GabeCoder)``
+
 ## PiCraft
 - **IP:** ``82.28.171.173``
 - **Port:** ``19135`` (survival) and ``19132`` (creative)
