@@ -41,7 +41,7 @@ center: false
 - **Gamemode:** ``Survival``
 - **Software:** ``MCPI-Reborn``
 - **Status:** ``Online (Run from 10 AM to 10 PM ET)``
-- **Owner:** ``[GabeCoder](https://github.com/GabeCoder)``
+- **Owner:** ``GabeCoder on Github: https://github.com/GabeCoder``
 
 ## PiCraft
 - **IP:** ``82.28.171.173``
