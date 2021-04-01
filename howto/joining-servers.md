@@ -4,7 +4,7 @@ title: Joining Servers
 center: false
 ---
 
-First of all, you will need to get the IP and the port of the server. We host a curated list of good servers [here]({{ site.baseurl }}/servers.html). The "manual" method requires Python 3.7 or higher. While the launcher requires Python 3.7.
+First of all, you will need to get the IP and the port of the server. We host a curated list of good servers [here]({{ site.baseurl }}/servers.html). Both methods requires Python 3.7 or higher.
 
 ## Using The Launcher (recommended)
 You will need to download and install the [launcher](https://github.com/MCPI-Revival/MCPIL). There is a "Multiplayer" tab in the launcher, it's a GUI (Graphical User Interface) for the proxy, and you simply need to put the server IP in the "IP" box and the port in "Port". Then, just click "Save" and launch the game from the "Play" tab. Click "Join Game" in MCPI and now you can join the server!
