@@ -24,7 +24,7 @@ Debian Buster/Ubuntu 20.04 Or Later
 
 ### Instructions
 1. Open UDP port 19132 on your router/firewall.
-2. Download the ``minecraft-pi-reborn-server`` DEB from [here](https://jenkins.thebrokenrail.com/job/minecraft-pi-reborn/job/master/lastSuccessfulBuild/artifact/out/deb) and install it.
+2. Download the ``minecraft-pi-reborn-server`` DEB from [here](https://jenkins.thebrokenrail.com/job/minecraft-pi-reborn/job/master/lastSuccessfulBuild/artifact/out) and install it.
 3. Create a folder for your server and open a terminal in it.
 4. Run ``minecraft-pi-server`` to start your server.
 5. Done! You can now edit ``server.properties`` to configure the server.
