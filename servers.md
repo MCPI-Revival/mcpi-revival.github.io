@@ -38,6 +38,16 @@ center: false
 - **Status:** ``Online``
 - **Owner:** ``Meowie Gamer#5706``
 
+## Fancy server
+- **IP:** ``176.180.207.209``
+- **Port:** ``19134``
+- **Description:** ``A very fancy server``
+- **Max capacity:** ``5 players``
+- **Gamemode:** ``Survival``
+- **Software:** ``MCPI-Reborn``
+- **Status:** ``Online``
+- **Owner:** ``JuMpeR6790#8761``
+
 ## Tutorials
 - [HowTo: Joining A Server]({{ site.baseurl }}/howto/joining-servers.html)
 - [HowTo: Creating A Server]({{ site.baseurl }}/howto/creating-servers.html)
