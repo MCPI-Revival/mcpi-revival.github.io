@@ -53,7 +53,7 @@ center: false
 - **Port:** ``19132``
 - **Description:** ``Welcome to Nitro! Enjoy our server!``
 - **Max capacity:** ``5 players``
-- **Gamemode:** ``Creative``
+- **Gamemode:** ``Survival``
 - **Software:** ``MCPI-Reborn``
 - **Status:** ``Online``
 - **Owner:** ``MegaTKC#8353``
