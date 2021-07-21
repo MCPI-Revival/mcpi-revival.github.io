@@ -48,6 +48,16 @@ center: false
 - **Status:** ``Online``
 - **Owner:** ``JuMpeR6790#8761``
 
+## Nitro
+- **IP:** ``nitro.pocket-server.net``
+- **Port:** ``19132``
+- **Description:** ``Welcome to Nitro! Enjoy our server!``
+- **Max capacity:** ``5 players``
+- **Gamemode:** ``Creative``
+- **Software:** ``MCPI-Reborn``
+- **Status:** ``Online``
+- **Owner:** ``MegaTKC#8353``
+
 ## Tutorials
 - [HowTo: Joining A Server]({{ site.baseurl }}/howto/joining-servers.html)
 - [HowTo: Creating A Server]({{ site.baseurl }}/howto/creating-servers.html)
