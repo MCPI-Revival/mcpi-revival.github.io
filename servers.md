@@ -58,6 +58,16 @@ center: false
 - **Status:** ``Online``
 - **Owner:** ``MegaTKC#8353``
 
+## 1mp0ss1bl3's Survival Server
+- **IP:** ``impossible.zapto.org``
+- **Port:** ``19132``
+- **Description:** ``A regular survival server. Resets if it gets too greifed. No rules except no chat spamming``
+- **Max capacity:** ``10 players``
+- **Gamemode:** ``Survival``
+- **Software:** ``MCPI-Reborn``
+- **Status:** ``Online``
+- **Owner:** ``1mp0ss1bl3#8131``
+
 ## Tutorials
 - [HowTo: Joining A Server]({{ site.baseurl }}/howto/joining-servers.html)
 - [HowTo: Creating A Server]({{ site.baseurl }}/howto/creating-servers.html)
