@@ -28,16 +28,6 @@ center: false
 - **Status:** ``Online``
 - **Owner:** ``RPiNews#0816``
 
-## Meowie's Minecraft server
-- **IP:** ``178.63.126.210``
-- **Port:** ``19132``
-- **Description:** ``A fun little server.``
-- **Max capacity:** ``20 players``
-- **Gamemode:** ``Survival``
-- **Software:** ``MCPI-Reborn``
-- **Status:** ``Online``
-- **Owner:** ``Meowie Gamer#5706``
-
 ## Fancy server
 - **IP:** ``176.180.207.209``
 - **Port:** ``19134``
