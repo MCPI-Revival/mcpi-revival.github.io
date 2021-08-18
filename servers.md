@@ -58,6 +58,16 @@ center: false
 - **Status:** ``Online``
 - **Owner:** ``1mp0ss1bl3#8131``
 
+## Windows 98's Anarchy Server
+- **IP:** ``172.16.0.146``
+- **Port:** ``19132``
+- **Description:** `` Do anythinng in this server!``
+- **Max capacity:** ``6 players``
+- **Gamemode:** ``Survival``
+- **Software:** ``MCPI-Reborn``
+- **Status:** ``Online``
+- **Owner:** ``Windows 98#9985``
+
 ## Tutorials
 - [HowTo: Joining A Server]({{ site.baseurl }}/howto/joining-servers.html)
 - [HowTo: Creating A Server]({{ site.baseurl }}/howto/creating-servers.html)
