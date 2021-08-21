@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="shortcut icon" href="images/logo.png" type="image/x-icon" />
+    <link rel="stylesheet" href="normalize.css" />
+    <link rel="stylesheet" href="styles.css" />
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MCPI revival</title>
+  </head>
+  <body>
+    <div id="wrapper" class="wrapper">
+      <div id="header" class="header">
+        <a href="/index.html"
+          ><img id="logo" src="images/logo.png" alt="logo"
+        /></a>
+        <div>
+          <ul class="nav">
+            <li id="link"><a href="download.html">Download</a></li>
+            <li id="link"><a href="servers.html">Multiplayer</a></li>
+            <li id="link"><a href="screenshots.html">Screenshots</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="content2">
+      <h1>Download</h1>
+      <p id="download_intro">
+        Install MCPI reborn (our flagship MCPI mod) on ARM (Raspberry Pi,
+        RockPi, etc), Linux, and Windows!
+      </p>
+      <p class="methods">
+        <span style="font-weight: bold">Method A:</span> for armhf/arm64 OSes!
+        (so only for Raspberry Pis/RockPis/etc). Install it on pi-apps:
+        <span style="color: #efe561"
+          ><a href="https://github.com/Botspot/pi-apps"
+            >https://github.com/Botspot/pi-apps</a
+          ></span
+        >
+        (Listed as MCPI Modded in the Games section!).
+      </p>
+      <p class="methods">
+        <span style="font-weight: bold">Method B:</span> for x86_64 Linux, get
+        it from our APT repo mcpi-packages by running the following
+        <span>commands</span>:
+      </p>
+      <div class="command-download">
+        <p class="methods">
+          <span>
+            wget -qO-
+            https://raw.githubusercontent.com/MCPI-Revival/mcpi-packages/master/install.sh
+            | sudo bash -</span
+          >
+        </p>
+      </div>
+      <div class="command-download">
+        <p class="methods">
+          <span>sudo apt-get install -y minecraft-pi-reborn-client</span>
+        </p>
+      </div>
+      <p class="methods">
+        <span style="font-weight: bold">Method C: </span>for all
+        OSes/architectures! Only use if Method A/B fails or you can't get
+        internet access. Get it straight from the source using debs:
+        <span style="color: #efe561"
+          ><a
+            href="https://gitea.thebrokenrail.com/TheBrokenRail/minecraft-pi-reborn/src/branch/master/docs/INSTALL.md"
+            >https://gitea.thebrokenrail.com/TheBrokenRail/minecraft-pi-reborn/src/branch/master/docs/INSTALL.md</a
+          ></span
+        >. Use two step build for x86_64 Linux and one step build for ARM.
+      </p>
+      <p class="methods">
+        <span style="font-weight: bold">Windows instructions:</span>
+        MCPI-Revival on windows is still experimental, to check the
+        instructions, please join our
+        <span style="color: #efe561"
+          ><a
+            href="https://discord.com/invite/aDqejQGMMy
+          "
+            >Discord Server</a
+          ></span
+        >.
+      </p>
+      <p>For any questions, visit our discord server :)</p>
+      <iframe
+        class="discord_widget"
+        src="https://discord.com/widget?id=740287937727561779&theme=dark"
+        width="350"
+        height="500"
+        allowtransparency="true"
+        frameborder="0"
+        sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"
+      ></iframe>
+    </div>
+    <div class="footer">
+      <h3>Copyright 2021 MCPI-Revival</h3>
+    </div>
+  </body>
+</html>

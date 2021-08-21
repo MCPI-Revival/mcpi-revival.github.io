@@ -1,0 +1,236 @@
+@font-face {
+  font-family: mc_reg;
+  src: url(fonts/minecraft_reg.woff);
+}
+
+@font-face {
+  font-family: mc_old;
+  src: url(fonts/minecraft_alt.woff);
+}
+
+#header {
+  z-index: 1000;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  padding: 0.5rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+#logo {
+  text-align: center;
+  height: 5rem;
+  transform: translateY(29%);
+}
+
+a {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+body {
+  color: #f7f7f7;
+  background-image: url(images/wall.png);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#link {
+  font-family: mc_old;
+  color: #f7f7f7;
+  list-style: none;
+  padding: 0.5rem;
+}
+
+.header {
+  background-image: url(images/bg-wool-dark.png);
+}
+
+.wrapper {
+  height: 9.4rem;
+}
+
+.home {
+  width: 100%;
+  max-height: 39rem;
+  background-color: black;
+}
+
+.home_img {
+  max-height: 38rem;
+  max-width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  font-family: mc_old;
+  text-align: center;
+  padding: 2rem;
+}
+
+h3 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  margin: 1rem;
+}
+
+.useful_links {
+  font-weight: bold;
+  font-size: 1.7rem;
+}
+
+.link_list {
+  display: inline;
+  text-align: center;
+  list-style: none;
+  color: #efe561;
+  font-size: 1.2rem;
+}
+
+.content {
+  padding-bottom: 3rem;
+}
+
+.footer {
+  font-family: mc_old;
+  z-index: 1000;
+  background-image: url(images/bg-wool-dark.png);
+  height: 10rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+#download_intro {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.methods {
+  text-align: left;
+}
+
+.discord_widget {
+  display: block;
+  margin: auto;
+  margin-bottom: 1.8rem;
+}
+
+#last_paragraph {
+  margin-bottom: 4rem;
+}
+
+.command-download {
+  border: gray solid 1px;
+  padding: 1px;
+  background-color: black;
+  margin-bottom: 4px;
+}
+
+.server_list {
+  margin-left: 5rem;
+}
+
+#server_intro {
+  margin-top: 2rem;
+  text-align: start;
+  margin-bottom: 1rem;
+}
+
+#server_name {
+  text-align: start;
+  font-weight: bolder;
+  font-size: 1.6rem;
+}
+
+.intro2 {
+  margin-bottom: 2rem;
+}
+
+#screenshot {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+#create_server {
+  text-align: left;
+}
+
+.content5,
+.content2,
+.content3 {
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+
+#create_server_title {
+  text-align: left;
+  font-size: 1.4rem;
+  font-weight: bold;
+  margin-bottom: 1.2rem;
+  text-decoration: underline;
+}
+
+#create_server_small_title {
+  text-align: left;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+#last_create_server_paragraph {
+  text-align: left;
+  padding-bottom: 1.7rem;
+}
+
+@media screen and (min-width: 880px) {
+  #logo {
+    margin-left: 5rem;
+    transform: none;
+  }
+
+  #header {
+    padding: 1rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  .nav {
+    display: flex;
+    flex-direction: row;
+    margin-right: 5rem;
+  }
+
+  #link {
+    padding-top: 1rem;
+    margin-left: 5rem;
+  }
+
+  .wrapper {
+    height: 7.3rem;
+  }
+
+  .footer {
+    height: 7rem;
+  }
+
+  .content5,
+  .content2,
+  .content3 {
+    margin-left: 18rem;
+    margin-right: 18rem;
+  }
+}

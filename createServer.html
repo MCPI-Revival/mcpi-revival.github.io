@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="shortcut icon" href="images/logo.png" type="image/x-icon" />
+    <link rel="stylesheet" href="normalize.css" />
+    <link rel="stylesheet" href="styles.css" />
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MCPI revival</title>
+  </head>
+  <body>
+    <div id="wrapper" class="wrapper">
+      <div id="header" class="header">
+        <a href="/index.html"
+          ><img id="logo" src="images/logo.png" alt="logo"
+        /></a>
+        <div>
+          <ul class="nav">
+            <li id="link"><a href="download.html">Download</a></li>
+            <li id="link"><a href="servers.html">Multiplayer</a></li>
+            <li id="link"><a href="screenshots.html">Screenshots</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="content5">
+      <h1>Create a Server</h1>
+      <p id="create_server">
+        First of all, you must choose which server software to use.
+      </p>
+      <p id="create_server_title">MCPI-Reborn</p>
+      <p id="create_server_small_title">Pros</p>
+      <ul>
+        <li>Survival Mode Support</li>
+        <li>Mob AI</li>
+        <li>World Generation</li>
+        <li>IP-Banning</li>
+      </ul>
+      <p id="create_server_small_title">Cons</p>
+      <ul>
+        <li>
+          Player Data Is Not Saved (can be fixed by using a chest before logging
+          out)
+        </li>
+        <li>No Whitelist</li>
+      </ul>
+      <p id="create_server_small_title">System Requirements</p>
+      <ul>
+        <li>Debian Buster/Ubuntu 20.04 Or Later</li>
+      </ul>
+      <p id="create_server_small_title">Installation Instructions</p>
+      <ol>
+        <li>Open UDP port 19132 on your router/firewall.</li>
+        <li>
+          Download the
+          <span style="background-color: black; font-size: 0.8rem"
+            >minecraft-pi-reborn-server</span
+          >
+          DEB from
+          <span style="color: #efe561"
+            ><a
+              href="https://jenkins.thebrokenrail.com/job/minecraft-pi-reborn/job/master/lastSuccessfulBuild/artifact/out/"
+              >here</a
+            ></span
+          >
+          and install it.
+        </li>
+        <li>Create a folder for your server and open a terminal in it.</li>
+        <li>
+          Run
+          <span style="background-color: black; font-size: 0.8rem"
+            >minecraft-pi-reborn-server</span
+          >
+          to start your server.
+        </li>
+        <li>
+          Done! You can now edit
+          <span style="background-color: black; font-size: 0.8rem"
+            >server.properties</span
+          >
+          to configure the server.
+        </li>
+      </ol>
+      <p id="create_server_title">PocketMine-MP Legacy</p>
+      <p id="create_server_small_title">Pros</p>
+      <ul>
+        <li>Made From Scratch, No Mojang Code</li>
+        <li>Player Inventories Are Saved</li>
+        <li>Whitelist/Banlist</li>
+      </ul>
+      <p id="create_server_small_title">Cons</p>
+      <ul>
+        <li>No Mob AI</li>
+        <li>Many Missing Features</li>
+        <li>Old Undocumented Codebase</li>
+        <li>Superflat World Generation Only</li>
+      </ul>
+      <p id="create_server_small_title">System Requirements</p>
+      <ul>
+        <li>Modern Debian/Ubuntu</li>
+      </ul>
+      <p id="create_server_small_title">Installation Instructions</p>
+      <ol>
+        <li>Open UDP port 19132 on your router/firewall.</li>
+        <li>
+          Install
+          <span style="background-color: black; font-size: 0.8rem"
+            >build-essential</span
+          >.
+        </li>
+        <li>Create a folder for your server.</li>
+        <li>
+          Download and extract
+          <span style="color: #efe561"
+            ><a
+              href="https://github.com/MCPI-Devs/PocketMine-MP/archive/thebrokenrail.zip"
+              >PocketMine-MP</a
+            ></span
+          >
+          into your server’s folder.
+        </li>
+        <li>Open a terminal in your server’s folder.</li>
+        <li>
+          Run
+          <span style="background-color: black; font-size: 0.8rem"
+            >./compile_php.sh </span
+          >to compile PocketMine’s version of PHP and its required extensions.
+        </li>
+        <li>
+          Run
+          <span style="background-color: black; font-size: 0.8rem"
+            >./start.sh </span
+          >to start your server.
+        </li>
+        <li>
+          Done! You can now edit server.properties to configure the server.
+        </li>
+      </ol>
+      <p id="last_create_server_paragraph">
+        You can find documentation for the server.properties config file
+        <span style="color: #efe561"
+          ><a
+            href="https://web.archive.org/web/20150623012407/http://pocketmine-mp.readthedocs.org:80/en/latest/config.html#server-properties"
+            >here</a
+          ></span
+        >.
+      </p>
+    </div>
+    <div class="footer">
+      <h3>Copyright 2021 MCPI-Revival</h3>
+    </div>
+  </body>
+</html>
