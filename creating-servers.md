@@ -53,6 +53,6 @@ Modern Debian/Ubuntu
 5. Open a terminal in your server's folder.
 6. Run ``./compile_php.sh`` to compile PocketMine's version of PHP and its required extensions.
 7. Run ``./start.sh`` to start your server.
-8. Done! You can now edit server.properties to configure the server.
+8. Done! You can now edit server.properties to configure the server.  
 
-You can find documentation for the server.properties config file [here](https://web.archive.org/web/20150623012407/http://pocketmine-mp.readthedocs.org:80/en/latest/config.html#server-properties).
+You can find documentation for the `server.properties` config file [here](https://web.archive.org/web/20150623012407/http://pocketmine-mp.readthedocs.org:80/en/latest/config.html#server-properties).

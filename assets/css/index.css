@@ -24,22 +24,16 @@ body {
     overflow-y: auto;
 }
 
-.header {
-    width: 100%;
-    height: 8vh;
-    background: rgba(51, 51, 51, 1); /* #0033cc */
-    font-family: "minecraft_alt";
-}
-
-.footer {
+.footer, .header {
     font-family: "minecraft_alt";
     width: 100%;
     height: 15vh;
-    background: #333333;
+    background: rgba(51, 51, 51, 1);
     color: #ffffff;
     text-align: center;
     position: relative;
 }
+
 .footer p {
     position: absolute;
     top: 50%;
@@ -63,27 +57,23 @@ main {
     font-family: sans-serif;
 }
 
-.header-button {
+.header-button, .home-button {
     width: auto;
-    height: 8vh;
-    display: inline;
+    display: inline-block;
     border: none;
     overflow: none;
     outline: none;
-    user-select: none;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
     background: transparent;
     color: #ffffff;
     text-align: center;
-    line-height: 8vh;
+    line-height: 10vh;
     text-decoration: none;
 }
 
 ul.header-list {
     width: auto;
     list-style-type: none;
+    padding: 2.5vh;
 }
 
 ul.header-list li {
@@ -97,24 +87,35 @@ ul.header-list li a {
 
 .header-img {
     width: auto;
-    height: 5vh;
-    display: inline-block;
+    float: left;
+    height: 10vh;
     vertical-align: middle;
+    padding: 0px 2.5vh;
+}
+
+.home-button {
+    float: left;
+    font-size: 1.25em;
+    padding: 2.5vh;
 }
 
 .header-button:active {
     color: #63e04c;
 }
 
+main a:hover, .header-button:hover {
+    text-decoration: underline;
+}
+
 main a {
     color: #efe561;
     text-decoration: none;
-    font-weight: bold;
 }
 
 .highlighter-rouge {
-    background: rgba(0,0,0,0.9);
+    background: rgba(0, 0, 0, 0.9);
 }
+
 main div.highlighter-rouge {
     border: 1px solid rgba(255, 255, 255, 0.15);
     padding: 12px;
@@ -137,6 +138,11 @@ main img {
     max-width: 100%;
 }
 
+iframe {
+    max-width: 70vw;
+    min-height: 400px;
+}
+
 .page > :first-child {
     margin-top: 0 !important;
 }
@@ -144,4 +150,117 @@ main img {
 .title {
     margin-top: 0;
     text-align: center;
+}
+
+.foo-txt a {
+    text-decoration: none;
+}
+
+#hamburger, label[for="hamburger"], .header-button, .home-button {
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+}
+
+#hamburger, label[for="hamburger"]
+{
+    display: none;
+}
+
+a[href="#on"]::before {
+    content: "Online";
+    color: green;
+}
+
+a[href="#off"]::before {
+    content: "Offline";
+    color: red;
+}
+
+a[href="#q"]::before {
+    content: "Unknown";
+    color: gray;
+}
+
+a[href="#on"]:hover, a[href="#off"]:hover, a[href="#q"]:hover {
+    text-decoration: none;
+}
+
+.fig figcaption {
+    font-size: 0.9em;
+    font-style: italic;
+}
+
+center.fig {
+    margin: 0.9em 0px;
+}
+
+@media screen and (max-width: 768px) {
+    .home-button, .header-button {
+        text-align: center;
+        float: none;
+    }
+
+    nav {
+        position: fixed;
+        width: 100%;
+    }
+
+    main {
+        margin-top: 15vh;
+    }
+
+    ul.header-list {
+        float: right;
+        position: fixed;
+        top: 15vh;
+        right: 0px;
+        display: none;
+        background: rgba(31, 31, 31, 1);
+        min-height: 100vh;
+        min-width: 25vw;
+        z-index: 16;
+    }
+
+    ul.header-list li {
+        float: none;
+    }
+
+    label[for="hamburger"]
+    {
+        display: inline-block;
+        font-size: 1.5em;
+        font-style: bold;
+        position: absolute;
+        right: 0;
+        top: 0;
+        line-height: 10vh;
+        padding: 2.5vh;
+    }
+
+    #hamburger:checked ~ ul {
+        display: block;
+    }
+
+    .header-button {
+        line-height: 4vh;
+    }
+
+    iframe {
+        max-width: 65vw;
+        min-height: 300px;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    ul.header-list {
+        min-width: 30vw;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    ul.header-list {
+        min-width: 100vw;
+    }
 }
