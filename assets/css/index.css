@@ -83,6 +83,7 @@ ul.header-list {
     width: auto;
     list-style-type: none;
     padding: var(--header-padding) 0px;
+    margin-right: var(--img-wpadding);
 }
 
 ul.header-list li {
@@ -92,6 +93,9 @@ ul.header-list li {
 ul.header-list li a {
     margin-left: 0.75vw;
     margin-right: 0.75vw;
+}
+ul.header-list li:first-child a {
+    margin-right: 0;
 }
 
 .header-img {
