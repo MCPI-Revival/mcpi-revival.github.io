@@ -9,11 +9,8 @@ In order to join a server, use the GUI of the launchers to add it.
 ## TheBrokenRail's Survival Server
 - IP: ``thebrokenrail.com``
 - Port: ``19132``
-- Description: Friendly MCPI survival server to chill out and have fun! Used as a server to test MCPI-Reborn.
-- Rules:
-  1. Be kind and fair to everyone.
-  2. No griefing, stealing, or random killing. Hacking is allowed for testing as long as it doesn't affect other players.
-  3. Use common sense! Don't try to find loopholes in the rules.
+- Description: Friendly MCPI survival server to chill out and have fun!
+  Used as a server to test MCPI-Reborn. No rules.
 - Max capacity: 20 players
 - Gamemode: ``Survival``
 - Software: ``MCPI-Reborn``
@@ -23,7 +20,8 @@ In order to join a server, use the GUI of the launchers to add it.
 ## PBPT Anarchy (Pi Builders Pi Tools)
 - IP: ``pbptanarchy.tk``
 - Port: ``19132``
-- Description: The "oldest" MCPI survival anarchy server! Anything and everything is allowed from flyhacks to greifing.
+- Description: The "oldest" MCPI survival anarchy server! Anything and
+  everything is allowed from flyhacks to greifing.
 - Max capacity: 20 players
 - Gamemode: ``Survival``
 - Software: ``MCPI-Reborn``
@@ -53,7 +51,8 @@ In order to join a server, use the GUI of the launchers to add it.
 ## 1mp0ss1bl3's Survival Server
 - IP: ``impossible.zapto.org``
 - Port: ``19132``
-- Description: A regular survival server. Resets if it gets too greifed. No rules except no chat spamming
+- Description: A regular survival server. Resets if it gets too greifed.
+  No rules except no chat spamming
 - Max capacity: 10 players
 - Gamemode: ``Survival``
 - Software: ``MCPI-Reborn``

@@ -61,6 +61,7 @@ Mostly on their pages on GitHub.
 
 ## Where can I ask for help?
 
-Feel free to ask any more questions you have in our [Discord Server](https://discord.gg/DCwcpyf):
+See our [troubleshooting guide]({{site.baseurl}}/troubleshooting.html), and feel
+free to ask any more questions you have in our [Discord Server](https://discord.gg/DCwcpyf):
 
 <iframe src="https://discord.com/widget?id=740287937727561779&theme=dark" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
