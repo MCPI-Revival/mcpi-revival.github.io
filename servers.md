@@ -41,10 +41,10 @@ center: false
 ## Nitro
 - **IP:** ``nitro.pocket-server.net``
 - **Port:** ``19132``
-- **Description:** ``Welcome to Nitro! Enjoy our server!``
+- **Description:** ``Welcome to Nitro! Our Minecraft Server uses a custom made server software called Feather. Please enjoy our server!``
 - **Max capacity:** ``5 players``
-- **Gamemode:** ``Creative``
-- **Software:** ``MCPI-Reborn``
+- **Gamemode:** ``Adventure``
+- **Software:** ``Feather``
 - **Status:** ``Online``
 - **Owner:** ``MegaTKC#8353``
 
