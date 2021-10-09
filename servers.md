@@ -69,7 +69,7 @@ center: false
 - **Owner:** ``Windows 98#9985``
 
 #megacreative
-- **IP:** ``megastudio.69.mu``
+- **IP:** ``megastudios.69.mu``
 - **Port:** ``19132``
 - **Description:** ``A ceative anarchy server with no rules and no map resets. Do whatever you want.``
 - **Max capacity:** ``15 players``
