@@ -68,6 +68,16 @@ center: false
 - **Status:** ``Online``
 - **Owner:** ``Windows 98#9985``
 
+#megacreative
+- **IP:** ``megastudio.69.mu``
+- **Port:** ``19132``
+- **Description:** ``A ceative anarchy server with no rules and no map resets. Do whatever you want.``
+- **Max capacity:** ``15 players``
+- **Gamemode:** ``Creative``
+- **Software:** ``MCPI-Reborn``
+- **Status:** ``Online``
+- **Owner:** ``megaboi#2627``
+
 ## Tutorials
 - [HowTo: Joining A Server]({{ site.baseurl }}/howto/joining-servers.html)
 - [HowTo: Creating A Server]({{ site.baseurl }}/howto/creating-servers.html)
