@@ -30,7 +30,7 @@ Minecraft: Pi Edition is related to Minecraft: Pocket Edition, because the first
 
 ## And what is this?
 
-This is the main webpage of [MCPI Revival](https://github.com/MCPI-Revival), a community dedicated to Minecraft Pi (and eventually PE) modding. If you are interested, come join us! In [Discord]({{ site.baseurl }}/discord.html), [Reddit](https://old.reddit.com/r/MCPIDevs) and our [forums](https://mcpi-devs.freeforums.net/). We also appreciate contributions and feedback on our projects in [GitHub](https://github.com/MCPI-Devs)!
+This is the main webpage of [MCPI Revival](https://github.com/MCPI-Revival), a community dedicated to Minecraft Pi modding. If you are interested, come join us! In [Discord]({{ site.baseurl }}/discord.html),[Reddit](https://reddit.com/r/MCPIDevs) and maybe follow us on [Twitter](https://twitter.com/mcpirevival). We also appreciate contributions and feedback on our projects in [GitHub](https://github.com/MCPI-Devs)!
 
 ## Where can I find FAQ on other projects?
 
