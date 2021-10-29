@@ -43,31 +43,53 @@ Section 1: Supported platforms
 TL;DR: Only Debian Bullseye, Ubuntu 20.04, and Rasperry Pi OS Bullseye, or later are supported.
 
 1. Is Windows supported?
+
 No.
+
 2. Are WSL (Windows Subsystem for Linux) or WSL2 supported?
+
 No.
+
 3. Is Debian Buster supported?
+
 No.
+
 4. Are non-Debian distros supported?
+
 No, see above.
+
 5. Is Arch supported?
+
 No, and it will never be.
+
 6. Is TwisterOS officially supported?
+
 To some extent. If you're using Twister and MCPI breaks, it's most likely not our fault.
 
 Section 2: Modding
 TL;DR: Do your own research on the topic(s).
 
 7. How do you edit .so files?
+
 You don't. There is no such thing as ".so files".
+
 8. Can you add sprinting?
+
 No, because there's no hunger system (see below), but you can use the speed hack pinned in general.
+
 9. Can you add a hunger system?
+
 No.
+
 10. Can you add more blocks to the creative inventory?
+
 Only if they already exist (see below; most blocks and items are already in the creative inventory).
+
 11. Can you add new blocks?
+
 No.
+
 12. Can the API be used on MCPE 0.6.1?
+
 No, the API was added as an exclusive feature to MCPI, after its port from PE 0.6.1.
 
