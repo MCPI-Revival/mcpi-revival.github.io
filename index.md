@@ -12,9 +12,9 @@ center: true
 [MCPI-Revival Wiki (WIP)](https://wiki.mcpirevival.tk)
 
 ## Tools
-[Launcher](https://github.com/MCPI-Revival/MCPIL)
+[GMCPIL](https://github.com/MCPI-Revival/gMCPIL)
 
-[MCBES](https://github.com/MCPI-Revival/MCBES)
+[JMCPIL](https://github.com/MCPI-Revival/jMCPIL)
 
 [MCPI-Reborn](https://gitea.thebrokenrail.com/TheBrokenRail/minecraft-pi-reborn)
 
