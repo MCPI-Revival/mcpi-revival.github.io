@@ -11,6 +11,8 @@ center: true
 
 [MCPI-Revival Wiki (WIP)](https://wiki.mcpirevival.tk)
 
+[Minecraft Forum](https://minecraftforum.net/forums/minecraft-editions/minecraft-pi-edition)
+
 ## Tools
 [GMCPIL](https://github.com/MCPI-Revival/gMCPIL)
 
