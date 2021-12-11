@@ -28,6 +28,15 @@ center: false
 - **Status:** ``Online``
 - **Owner:** ``RPiNews#0816``
 
+## TBLLT's Pi-SMP (By Application Only)
+- **Description:** ``A grief-free, friendly, cooperative SMP for Minecraft: Pi Edition.``
+- **Apply Here (Google Forms):** https://forms.gle/rx44y3vpeppi9zG86
+- **Max capacity:** ``20 players``
+- **Gamemode:** ``Survival & Creative``
+- **Software:** ``MCPI-Reborn``
+- **Status:** ``Online``
+- **Owner:** ``TheBoyLeastLikelyTo#4375``
+
 ## Fancy server
 - **IP:** ``176.180.207.209``
 - **Port:** ``19134``
