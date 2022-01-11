@@ -37,6 +37,15 @@ center: false
 - **Status:** ``Online``
 - **Owner:** ``TheBoyLeastLikelyTo#4375``
 
+## Pika's building server
+- **Description:** ``Enjoy building with other people and watching other people's building.``
+- **Opening hours:** ``6:40 - 21:00 (opening hours may be affected by maintenance or other reasons. The server may be closed temporarily without prior notice) GMT+8``
+- **Max capacity:** ``10 players``
+- **Gamemode:** ``Survival``
+- **Software:** ``MCPI-Reborn``
+- **Status:** ``Online``
+- **Owner:** ``PikaNiko#7875``
+
 ## Tutorials
 - [HowTo: Joining A Server]({{ site.baseurl }}/howto/joining-servers.html)
 - [HowTo: Creating A Server]({{ site.baseurl }}/howto/creating-servers.html)
