@@ -18,15 +18,15 @@ center: false
 - **Status:** ``Online``
 - **Owner:** ``TheBrokenRail#5376``
 
-## PBPT Anarchy (Pi Builders Pi Tools)
+## PBPT Survival
 - **IP:** ``pbptanarchy.tk``
 - **Port:** ``19132``
-- **Description:** ``The "oldest" MCPI survival anarchy server! Anything and everything is allowed from flyhacks to greifing.``
-- **Max capacity:** ``20 players``
+- **Description:** ``Used to be the oldest anarchy server, now repurposed to general survival. No griefing and vulgar terms.``
+- **Max capacity:** ``50 players``
 - **Gamemode:** ``Survival``
 - **Software:** ``MCPI-Reborn``
 - **Status:** ``Online``
-- **Owner:** ``RPiNews#0816``
+- **Owner:** ``Nooz#0816``
 
 ## TBLLT's Pi-SMP (By Application Only)
 - **Description:** ``A collection of cooperative servers, anarchy and non-grief, for Minecraft: Pi Edition.``
