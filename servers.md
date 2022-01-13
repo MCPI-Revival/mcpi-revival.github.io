@@ -29,10 +29,10 @@ center: false
 - **Owner:** ``RPiNews#0816``
 
 ## TBLLT's Pi-SMP (By Application Only)
-- **Description:** ``A grief-free, friendly, cooperative SMP for Minecraft: Pi Edition.``
-- **Apply Here (Google Forms):** https://forms.gle/rx44y3vpeppi9zG86
-- **Max capacity:** ``20 players``
-- **Gamemode:** ``Survival & Creative``
+- **Description:** ``A collection of cooperative servers, anarchy and non-grief, for Minecraft: Pi Edition.``
+- **Apply [Here](https://forms.gle/rx44y3vpeppi9zG86) (Google Forms)**  
+- **Max capacity:** ``20 players, 3 servers``
+- **Gamemode:** ``Survival, Creative Superflat, and Anarchy``
 - **Software:** ``MCPI-Reborn``
 - **Status:** ``Online``
 - **Owner:** ``TheBoyLeastLikelyTo#4375``
