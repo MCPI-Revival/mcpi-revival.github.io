@@ -38,6 +38,7 @@ center: false
 - **Owner:** ``TheBoyLeastLikelyTo#4375``
 
 ## Pika's building server
+- **IP:** ``pikapibuilding.tk``
 - **Description:** ``Enjoy building with other people and watching other people's building.``
 - **Opening hours:** ``6:40 - 21:00 (opening hours may be affected by maintenance or other reasons. The server may be closed temporarily without prior notice) GMT+8``
 - **Max capacity:** ``10 players``
