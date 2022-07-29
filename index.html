@@ -12,10 +12,23 @@
             text-align: center;
 
         }
+        #particles {
+            z-index: -999;
+            position: fixed;
+            height: 100%;
+            width: 100%;
+            background-size: cover;
+            background-position: 50% 50%;
+            background: url("../img/wall.png") center;
+            background-size: 100% auto;
+            background-position: 0vw 0vh;
+            background-repeat: repeat;
+        }
     </style>
 </head>
 
 <body>
+    <div id="particles"></div>
     <header>
         <nav>
             <div class="header">
@@ -98,5 +111,10 @@
 <div id="screen-shader"
     style="            transition: opacity 0.1s ease 0s;             z-index: 2147483647;            margin: 0;             border-radius: 0;             padding: 0;             background: #fab760 !important;             pointer-events: none;             position: fixed;             top: -10%;             right: -10%;             width: 120%;             height: 120%;             opacity: 1.0000;            mix-blend-mode: multiply;             display: none;        ">
 </div>
-
+<script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
+<script>
+    particlesJS.load('particles', 'assets/particles.json', function () {
+        console.log('working');
+    })
+</script>
 </html>
