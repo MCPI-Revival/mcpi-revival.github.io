@@ -111,6 +111,11 @@ main a {
     color: #efe561;
     text-decoration: none;
     font-weight: bold;
+    transition: all .1s ease-in-out;
+}
+main a:hover {
+    color: #fff;
+
 }
 
 .highlighter-rouge {
