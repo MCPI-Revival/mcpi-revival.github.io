@@ -4,7 +4,10 @@ title: Home
 center: true
 ---
 
-#### Welcome to the largest Minecraft Pi related library!
+#### Welcome to MCPI Revival, and the home of the largest Minecraft Pi related info library!
+
+## About
+The MCPI Revival project is dedicated to making mods to enhance the long forgotten Minecraft: Pi Edition. Our feature project is [MCPI-Reborn](https://gitea.thebrokenrail.com/TheBrokenRail/minecraft-pi-reborn), a MCPI mod which enables disabled features through runtime patching. You may also be interested in some of our other projects like MCPIL, a GUI frontend for mcpi-reborn or [mcpi-repo](https://github.com/MCPI-Revival/mcpi-repo), a project to provide a online marketplace for mcpi-related content. Below, we have a list of technical info about Minecraft Pi itself.
 
 ## Community
 [Minecraft Wiki](https://minecraft.gamepedia.com/Pi_Edition)
