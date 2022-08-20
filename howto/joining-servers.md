@@ -9,7 +9,7 @@ First of all, you will need to get the IP and the port of the server. We host a 
 ## Using The Launcher (recommended)
 You will need to download and install the [launcher](https://github.com/MCPI-Revival/MCPIL). There is a "Multiplayer" tab in the launcher, it's a GUI (Graphical User Interface) for the proxy, and you simply need to put the server IP in the "IP" box and the port in "Port". Then, just click "Save" and launch the game from the "Play" tab. Click "Join Game" in MCPI and now you can join the server!
 
-## Manually (reccomended for connecting to multiple servers)
+## Manually (recommended for connecting to multiple servers)
 You will need to download the [proxy](https://github.com/MCPI-Revival/proxy/). Then navigate to the folder where it is and use it as following:
 
 ```sh
