@@ -15,14 +15,14 @@ center: false
 - **Status:** ``Online``
 - **Owner:** ``Nooz#0816``
 
-## TBLLT's Pi-SMP
+## Pi-SMP
 - **Description:** ``An apply-only, cooperative, zero grief SMP.``
 - **Application:** [Apply Here](https://forms.gle/rx44y3vpeppi9zG86) (Google Forms)
 - **Max capacity:** ``20 players``
 - **Gamemode:** ``Survival``
 - **Software:** ``MCPI-Reborn``
 - **Status:** ``Online``
-- **Owner:** ``TheBoyLeastLikelyTo#4375``
+- **Owner:** ``JuMpeR6790#8761``
 
 ## Sky16 
 - **Description:** ``A skyblock anarchy server ``
