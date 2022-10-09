@@ -2,8 +2,6 @@
 layout: default
 ---
 
-[Back](index.html)
-
 # Frequently Asked Questions
 
 Frequently Asked Questions - Now with answers for the same price!

@@ -2,8 +2,6 @@
 layout: default
 ---
 
-[Back](index.html)
-
 # Screenshots
 
 ![Creative Mode]({{ site.baseurl }}/assets/img/screenshots/creative.png)
