@@ -5,3 +5,7 @@ remote_theme: pages-themes/midnight@v0.2.0
 title: MCPI-Revival
 description: "Minecraft: Pi Edition community. Our goal is to revive the game by modding it and creating an active community!"
 show_downloads: false
+
+# GitHub
+github:
+  repository_url: https://github.com/MCPI-Revival
