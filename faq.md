@@ -13,10 +13,10 @@ It's a fork (modification) of an old version of Minecraft: Pocket Edition (Alpha
 ### How do I get it?
 
 __Method A:__ Official Instructions
-Read https://gitea.thebrokenrail.com/TheBrokenRail/minecraft-pi-reborn/src/branch/master/docs/INSTALL.md.
+Read <https://gitea.thebrokenrail.com/TheBrokenRail/minecraft-pi-reborn/src/branch/master/docs/INSTALL.md>.
 
 __Method B (Raspberry Pi OS ARM Only):__ Pi-Apps
-Install from https://github.com/Botspot/pi-apps, it is listed as `Minecraft Pi (Modded)`.
+Install from <https://github.com/Botspot/pi-apps>, it is listed as `Minecraft Pi (Modded)`.
 
 ### What extra features does MCPI have?
 

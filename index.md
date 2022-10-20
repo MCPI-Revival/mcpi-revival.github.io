@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Home
-MCPI-Revival is the largest online community devoted to Minecraft: Pi Edition, an abandoned version of Minecraft originally for the Raspberry Pi. We maintain a modpack called MCPI-Reborn which improves and adds features to the game. Join and play today! Find us online at https://mcpi-revival.github.io as well!
+MCPI-Revival is the largest online community devoted to Minecraft: Pi Edition, an abandoned version of Minecraft originally for the Raspberry Pi. We maintain a modpack called MCPI-Reborn which improves and adds features to the game. Join and play today! Find us online at <https://mcpi-revival.github.io> as well!
 
 ### Join Our Discord!
 
