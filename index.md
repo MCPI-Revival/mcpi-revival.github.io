@@ -26,6 +26,7 @@ MCPI-Revival is the largest online community devoted to Minecraft: Pi Edition, a
 * [Complete Block ID Reference](https://wiki.mcpirevival.tk/wiki/Minecraft:_Pi_Edition_block_list)
 * [Scripting API Protocol Docs](https://wiki.vg/Minecraft_Pi_Protocol)
 * [Scripting API Refernce](https://www.stuffaboutcode.com/p/minecraft-api-reference.html)
+* [Multi-Player Protocol (JSON)](https://raw.githubusercontent.com/MCPI-Revival/pi_protocol/master/pi_protocol/data/protocol.json)
 * [Multi-Player Protocol Docs](https://wiki.vg/Pocket_Minecraft_Protocol)
 * [Multi-Player Protocol Dumps](https://gist.github.com/shoghicp/5601589)
 
