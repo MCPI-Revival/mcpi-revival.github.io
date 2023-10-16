@@ -18,7 +18,7 @@ MCPI-Revival is the largest online community devoted to Minecraft: Pi Edition, a
 * [Screenshots!](screenshots.html)
 
 ### Community
-* [Minecraft Wiki](https://minecraft.gamepedia.com/Pi_Edition)
+* [Minecraft Wiki](https://minecraft.wiki/Pi_Edition)
 * [Minecraft Forum](https://minecraftforum.net/forums/minecraft-editions/minecraft-pi-edition)
 * [MCPI-Revival Wiki (WIP)](https://wiki.mcpirevival.tk)
 
